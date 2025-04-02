@@ -1,1 +1,0 @@
-create unique index idx_snn_notnull on dbo.Employees(ssn) where ssn is not null;
